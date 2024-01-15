@@ -1,0 +1,2 @@
+# RectangleAndSquare
+Midterm Exam Java
